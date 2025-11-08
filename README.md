@@ -6,7 +6,8 @@ Author - Krishna Thapa
 C/ <br>
 Day1-Understanding fucntions,Hello world Additon/Subtraction/Multiplication/Division,Positive/Negative/Null/Zero,Loops,Storing Values/storing values with loops/storing values with lists.")
 <br>
-Python/
+Python/ <br>
 Day1-("Understanding functioms Hello world / syntax ,Additon/Subtraction/Multiplication/Division, Positive / Negative / Null/Zero , Loops , Storing Values / storing values with loops. ")
 <br>
-Day1-Java("Understanding Functions,Hello world/syntax")
+Java <br>
+Day1-("Understanding Functions,Hello world/syntax")
